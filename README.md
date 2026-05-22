@@ -4,6 +4,7 @@
 
 ## Auteur
 Revea Bekri - C22688
+
 Emmekhelthoum Sidaty - C27092
 
 # TP4 - K-Means : Segmentation Stratégique (Modèle RFM)
